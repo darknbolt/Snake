@@ -12,6 +12,5 @@ public class main {
         JFrame myFrame = new JFrame("Snake Game");
         JPanel myPanel = new JPanel();
         frame.setFrame(myFrame, myPanel);
-
     }
 }
