@@ -1,4 +1,3 @@
-package SnakeCode;
 import javax.swing.*;
 
 public class GameOBJ {

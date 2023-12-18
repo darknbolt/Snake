@@ -1,5 +1,3 @@
-package SnakeCode;
-
 import javax.swing.*;
 import java.awt.*;
 
